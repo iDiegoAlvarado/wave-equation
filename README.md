@@ -1,5 +1,7 @@
 # wave-equation
 
+![wave_fig](https://user-images.githubusercontent.com/87738807/229322949-bca859e1-7a9b-4329-84be-2020e7df0f7e.png)
+
 ## Phyical Description of *Waves*
 The *wave equation* is a second-order partial differential equation describing *waves*, including traveling and standing waves; the latter can be considered as linear superpositions of waves traveling in opposite directions. We are going to focus on the scalar wave equation describing waves in scalars by scalar functions $u = u (x_1, x_2, ..., x_n; t)$ of a time variable $t$ (a variable representing time) and one or more spatial variables $x_1$, $x_2$, ..., $x_n$ (variables representing a position in a space under discussion) while there are vector wave equations describing waves in vectors such as waves for electrical field, magnetic field, and magnetic vector potential and elastic waves. By comparison with vector wave equations, the scalar wave equation can be seen as a special case of the vector wave equations.
 
