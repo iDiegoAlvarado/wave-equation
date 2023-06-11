@@ -14,7 +14,7 @@
 
 
     author: @idiegoalvarado
-    github.com/iDiegoAlvarado/
+    repo: github.com/idiegoalvarado/wave-equation
 """
 
 import numpy as np
